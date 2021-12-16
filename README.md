@@ -15,4 +15,5 @@ Based on https://github.com/racz16/GLSL-editor/
 - brace mathcing
 - added opengl 120 functions
  
+![Screenshot_4](https://github.com/steelswing/nb-glsl-editor/blob/master/Screenshot_4.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/53971838/146412600-0bab6976-597e-4d56-b59d-8268768dc915.png)
