@@ -1,0 +1,42 @@
+<!--<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="comment" default="comment"/>
+    <fontcolor name="keyword" default="keyword"/>
+    <fontcolor name="whitespace" default="whitespace"/>
+    <fontcolor name="character" default="character"/>
+    <fontcolor name="default" default="default">
+        <font size="16"/>
+    </fontcolor>
+    <fontcolor name="operator" default="operator"/>
+    <fontcolor name="identifier" default="identifier"/>
+    <fontcolor name="number" default="number"/>
+    <fontcolor name="type" default="default" foreColor="00bab6"/>
+    <fontcolor name="macro" default="default" foreColor="800080"/>
+    <fontcolor name="qualifier" default="default" foreColor="ff0000"/>
+</fontscolors>-->
+
+<!DOCTYPE fontscolors PUBLIC
+    "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
+    "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="comment"      default="comment"     />    
+    <fontcolor name="keyword"      default="keyword"/>    
+    <fontcolor name="identifier"   default="identifier"/>
+    <fontcolor name="operator"     default="separator"/>     
+    <fontcolor name="number"       default="number"/>
+    <fontcolor name="preprocessor" default="preprocessor" foreColor="C46200"/>    <!-- keywords3 -->
+    <fontcolor name="string"       default="string"/>    <!-- inside delimiters " " -->
+    <fontcolor name="error"        default="error"        waveUnderlined="9E2927"/>
+    
+    <fontcolor name="type" default="keyword"/>
+    <fontcolor name="macro" default="preprocessor" foreColor="C46200"/>
+    <fontcolor name="qualifier" default="keyword"/>
+    
+    <fontcolor name="basictype"    default="basictype"    foreColor="408080"/>    <!-- keywords2 -->
+    <fontcolor name="builtinfunc"  default="builtinfunc"  foreColor="FF8040"/>    <!-- keywords6 -->
+    <fontcolor name="builtinvar"   default="builtinvar"   foreColor="8080FF"/>    <!-- keywords4 & keywords5 -->
+    <fontcolor name="whitespace"   default="whitespace"   foreColor="black"/>
+    <fontcolor name="whitespace"   default="whitespace"   foreColor="black"/>
+    
+    <fontcolor name="mark-occurrences" default="mark-occurrences"/>
+</fontscolors>

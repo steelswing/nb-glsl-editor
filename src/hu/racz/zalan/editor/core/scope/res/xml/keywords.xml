@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywords>
+    <keyword>break</keyword>
+    <keyword>continue</keyword>
+    <keyword>do</keyword>
+    <keyword>for</keyword>
+    <keyword>while</keyword>
+    <keyword>switch</keyword>
+    <keyword>case</keyword>
+    <keyword>default</keyword>
+    <keyword>if</keyword>
+    <keyword>else</keyword>
+    <keyword>discard</keyword>
+    <keyword>return</keyword>
+    <keyword>struct</keyword>
+    <keyword>void</keyword>
+    <keyword>true</keyword>
+    <keyword>false</keyword>
+</keywords>

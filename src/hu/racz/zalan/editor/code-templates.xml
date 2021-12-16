@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+    <codetemplate contexts="glsl-code" abbreviation="vec2">
+        <code><![CDATA[vec2 ${name} = ${a}]]></code>
+        <description>vec2 variable</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="vec3">
+        <code><![CDATA[vec3 ${name} = ${a}]]></code>
+        <description>vec3 variable</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="vec4">
+        <code><![CDATA[vec4 ${name} = ${a}]]></code>
+        <description>vec4 variable</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="fl">
+        <code><![CDATA[float ${name} = ${a}]]></code>
+        <description>float variable</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="uni">
+        <code><![CDATA[uniform ${type}]]></code>
+        <description>uniform</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="var">
+        <code><![CDATA[varying ${type}]]></code>
+        <description>varying</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="fun">
+        <code><![CDATA[${type} ${name}(${args}) {
+  ${cursor}
+}]]></code>
+        <description>Defines new method</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="void">
+        <code><![CDATA[void ${name}(${args}) {
+  ${cursor}
+}]]></code>
+        <description>Defines new method</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="main">
+        <code><![CDATA[void main() {
+  ${cursor}
+}]]></code>
+        <description>Defines main method</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="ver">
+        <code><![CDATA[#version ${120}]]></code>
+        <description>Defines version</description>
+        
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="struct">
+        <code><![CDATA[struct ${name} {
+         ${cursor}
+        };]]></code>
+        <description>struct variable</description>
+    </codetemplate>
+    <codetemplate contexts="glsl-code" abbreviation="for">
+        <code><![CDATA[
+for (int ${a} = ${0}, ${a} < ${10}, ${a}++) {${cursor}}
+        ]]></code>
+        <description>for loop</description>
+    </codetemplate>
+</codetemplates>
